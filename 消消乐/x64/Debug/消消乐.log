@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  消消乐.cpp
+d:\c++\消消乐\消消乐\method.h(74): warning C4101: “random”: 未引用的局部变量
+  消消乐.vcxproj -> D:\c++\消消乐\x64\Debug\消消乐.exe
